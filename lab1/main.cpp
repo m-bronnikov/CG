@@ -6,24 +6,22 @@
 
 using namespace std;
 
-int X_COORD;// X - размерность ] должны
-int Y_COORD;// Y - размерность ] быть равными
-const float ITERATIONS = 0.00005;// прорисовка графика (чем меньше тем лучше)
+int X_COORD;
+int Y_COORD;
+const float ITERATIONS = 0.00005;
+int x_off;
+int y_off;
+float a;
 
-int x_off = X_COORD / 2;// начало
-int y_off = Y_COORD / 2;// оси координат
-
-float a = 10.0;
-
-float x_from_polar(float r, float f){ // координата х графика
+float x_from_polar(float r, float f){
   return r*cos(f);
 }
 
-float y_from_polar(float r, float f){ // координата у графика
+float y_from_polar(float r, float f){
   return r*sin(f);
 }
 
-float r_function(float f){ // координата r графика от f и a
+float r_function(float f){
   return a*cos(3*f);
 }
 
