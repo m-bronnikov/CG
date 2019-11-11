@@ -20,6 +20,10 @@
 #include "Camera.h"
 #include "multyplyes.h"
 
+// compile: g++ main.cpp -o hello -lGL -lGLEW -lglfw
+// you need glm, glew and glfw libs
+
+
 
 
 // Function prototypes
@@ -28,6 +32,8 @@ void mouse_callback(GLFWwindow* window, double xpos, double ypos);
 void scroll_callback(GLFWwindow* window, double xoffset, double yoffset);
 void do_movement();
 void new_func_size_callback(GLFWwindow* window, int width, int heigh);
+
+GLfloat* get_figure();
 
 // Window dimensions
 const GLuint WIDTH = 800, HEIGHT = 600;
