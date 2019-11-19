@@ -1,7 +1,9 @@
 # Computer Graphic
 ## Laboratory works on Computer Graphics 3 course
 
-### Variant №12
+### Content
+
+[Tasks for Laboratory works](lab_tasks.pdf) --- Variant №12
 
 [Laboratory work №1](lab1) --- *p = acos(3f)*
 
