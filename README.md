@@ -3,7 +3,7 @@
 
 ### Variant №12
 
-[Laboratory work №1](lab1) --- $$ p = a\cos{3\theta} $$
+[Laboratory work №1](lab1) --- *p = acos(3f)*
 
 [Laboratory work №2](lab2) --- *5 sides piramid*
 
@@ -11,9 +11,9 @@
 
 [Laboratory work №4-5](lab4-5) --- *Cilinder*
 
-[Laboratory work №6](lab6) --- $$Y = Y\cos(t + Y)$$
+[Laboratory work №6](lab6) --- *Y = Ycos(t + Y)*
 
-[Laboratory work №7](lab7) --- *B-spline* $$n = 6$$, $$k = 4$$
+[Laboratory work №7](lab7) --- *B-spline n = 6, k = 4* 
 
 [Course project](KP) --- *Not ready yet*
 
