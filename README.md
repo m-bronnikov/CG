@@ -7,6 +7,8 @@ Variant №12
 
 [Tasks for Laboratory works](lab_tasks.pdf)
 
+Variant №1
+
 [Tasks for Course project](KP/task.doc) 
 
 ### Solutions
@@ -23,7 +25,7 @@ Variant №12
 
 [Laboratory work №7](lab7) --- *B-spline n = 6, k = 4* 
 
-[Course project](KP) --- *Not ready yet*
+[Course project](KP) --- *Bicubical Bezier surface*
 
 
 ### Literature
@@ -33,5 +35,9 @@ Variant №12
 [Source of information about quaternions](https://habr.com/post/426863 "Quaternions")
 
 [Information about curves](lab7/theory.ppt)
+
+### P.S.
+
+Course project and *docx* report made not by me. Course project i find on github. 
 
 ##### <center> Made by Max Bronnikov </center>
